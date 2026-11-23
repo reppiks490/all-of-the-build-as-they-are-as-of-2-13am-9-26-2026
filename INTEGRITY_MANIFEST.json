@@ -1,0 +1,83 @@
+{
+  "project": "EPOCH \u03a9 \u2014 Reality Foundry",
+  "version": "3",
+  "classification": "RESEARCH_DEMO_ONLY",
+  "statement": "File digests are SHA-256 checksums, not signed supply-chain attestations.",
+  "files": [
+    {
+      "path": ".github/workflows/epoch-smoke.yml",
+      "bytes": 649,
+      "sha256": "646871f43b366285d9186b2dd4bf729f324c465fd9122d2c93dd7aa5a6b995b5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4250,
+      "sha256": "4eb8e15b8f7e9cb70773492327e87b727a34b9d0a02da5aa9e02d0f060e4ddf4"
+    },
+    {
+      "path": "app/index.html",
+      "bytes": 97289,
+      "sha256": "858ddc9d9059478ea4f5333ab05262ee5156caaf0e216925a7e4fb794f88b47f"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 4156,
+      "sha256": "5f6db592437ebcb9304095d18f96e3110926d3f6a0b9bb3d0b5f6f897ce82726"
+    },
+    {
+      "path": "docs/CHANGELOG.md",
+      "bytes": 1319,
+      "sha256": "1172818ac1b0241ddee920fc5b6e870746133e064017972bc103cea3f6cd1562"
+    },
+    {
+      "path": "docs/CODEX_HANDOFF.md",
+      "bytes": 3746,
+      "sha256": "93ac9baa0ed18a2f04c482928bbcbeeef0ead989bfb7e2c43ca68f41f39ea9af"
+    },
+    {
+      "path": "docs/CONNECTORS.md",
+      "bytes": 3697,
+      "sha256": "1f06d7119aab0464a0143bc8587b7509a38840a40ff449c046d2ff15ef5dd7c0"
+    },
+    {
+      "path": "docs/NEXT_PHASES.md",
+      "bytes": 4911,
+      "sha256": "45c4c3a13ae32d3dda0cd928ffef448fdb719da2d3e40d0678c96cf533512da1"
+    },
+    {
+      "path": "docs/RESEARCH.md",
+      "bytes": 3752,
+      "sha256": "11f65158b2695a787a1d0f969addc9265c55adf3b23652f264d5f008919b7470"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 3866,
+      "sha256": "077683463d28475af27cc145bea954756a941c3b4e5cd35246ab630805273cd2"
+    },
+    {
+      "path": "sample-data/observation-example.json",
+      "bytes": 814,
+      "sha256": "a29a22e4e849bf8e692b63c991b09e044386ff3766a5246afbd5cffe98d6ad82"
+    },
+    {
+      "path": "schemas/observation.v1.schema.json",
+      "bytes": 1574,
+      "sha256": "f4a64e1a3e749317550c45ce35d1c82e0917a842c27605cf67b30822d53906d6"
+    },
+    {
+      "path": "src/phase3-engine.js",
+      "bytes": 26038,
+      "sha256": "1f6661e41cf97bf758709f3ae326a1398919b83a9dfa77cfd3b325ec938ec9f9"
+    },
+    {
+      "path": "src/phase3-styles.css",
+      "bytes": 8780,
+      "sha256": "5bc3bd9ecd89a6c29cfd15da1c62f94827232eb99a3c169581536567b445d5e1"
+    },
+    {
+      "path": "tests/smoke.py",
+      "bytes": 4892,
+      "sha256": "8a343eadbf0114bbc73f722e1c47c0eebc3187c68cdd1ee60d5ca7676e2f8e5c"
+    }
+  ]
+}
