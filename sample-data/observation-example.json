@@ -1,0 +1,27 @@
+{
+  "schema": "epoch.omega.observations.v1",
+  "observations": [
+    {
+      "asset": "US10Y",
+      "metric": "yield",
+      "value": 4.92,
+      "unit": "percent",
+      "source": "FMP_DEMONSTRATION",
+      "observedAt": "2026-11-20",
+      "capturedAt": "2026-11-23",
+      "kind": "treasury",
+      "note": "Example of a day-precision session capture. NOT proof that this value was available as of Nov 20."
+    },
+    {
+      "asset": "BTCUSD",
+      "metric": "spot_last",
+      "value": 61211.03,
+      "unit": "USD",
+      "source": "TICKERLAYER_DEMONSTRATION",
+      "observedAt": "2026-11-23T00:35:49.863Z",
+      "capturedAt": "2026-11-23",
+      "kind": "crypto",
+      "note": "Demonstration entry; verify exchange, quote definition and exact first availability before financial research."
+    }
+  ]
+}
